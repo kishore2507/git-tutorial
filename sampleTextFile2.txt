@@ -3,3 +3,7 @@ This is a sample text file , text is ok
 File updating
 
 some new code changes updates
+
+new code changes in master
+
+
