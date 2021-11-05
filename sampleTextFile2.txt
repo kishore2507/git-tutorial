@@ -6,4 +6,7 @@ some new code changes updates
 
 new code changes in master
 
+New code changes from newBranch2.
+
+
 
